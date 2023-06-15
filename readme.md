@@ -1,5 +1,5 @@
 # Webpack & Tailwind Starter
-- from Udemy course
+- from Udemy course, base repo.
 
 Build apps with Webpack and use Tailwind CSS
 
